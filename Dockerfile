@@ -17,3 +17,4 @@ RUN go get github.com/golangci/golangci-lint/cmd/golangci-lint@v1.19.1
 ADD go.mod go.mod
 ADD go.sum go.sum
 RUN go mod download
+
