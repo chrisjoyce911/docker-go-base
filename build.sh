@@ -7,4 +7,5 @@ PROJECT_NAME="docker-go-base"
 GOPROXY="direct"
 cd "$PROJ_DIR"
 
+go mod download
 docker build -t chrisjoyce911/go-base -f Dockerfile .
