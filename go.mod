@@ -19,6 +19,7 @@ require (
 	github.com/rogpeppe/go-internal v1.5.0
 	github.com/satori/go.uuid v1.2.0
 	github.com/stretchr/testify v1.4.0
+	golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413
 	golang.org/x/net v0.0.0-20190930134127-c5a3c61f89f3
 	golang.org/x/sys v0.0.0-20191007154456-ef33b2fb2c41
 	gopkg.in/errgo.v2 v2.1.0
