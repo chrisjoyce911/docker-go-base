@@ -9,6 +9,7 @@ require (
 	github.com/boltdb/bolt v1.3.1
 	github.com/cseeger-epages/confluence-go-api v0.0.0-20190927060450-f8ebd23a7d74
 	github.com/dustin/go-humanize v1.0.0
+	github.com/gin-gonic/contrib v0.0.0-20191209060500-d6e26eeaa607
 	github.com/gin-gonic/gin v1.5.0
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/gosimple/slug v1.9.0
